@@ -2,10 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://preciousthingy.github.io/categories/</loc>
+    <loc>https://preciousthingy.github.io/tags/1.18/</loc>
+    <lastmod>2023-01-20T21:50:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/tags/1.19/</loc>
+    <lastmod>2023-01-20T21:50:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/</loc>
+    <lastmod>2023-01-20T21:50:00-05:00</lastmod>
   </url><url>
     <loc>https://preciousthingy.github.io/</loc>
+    <lastmod>2023-01-20T21:50:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/tags/spigot/</loc>
+    <lastmod>2023-01-20T21:50:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/tabulatedchests/</loc>
+    <lastmod>2023-01-20T21:50:00-05:00</lastmod>
   </url><url>
     <loc>https://preciousthingy.github.io/tags/</loc>
+    <lastmod>2023-01-20T21:50:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/duelplugin/</loc>
+    <lastmod>2022-05-31T22:01:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/tags/1.16/</loc>
+    <lastmod>2022-05-22T07:22:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/tags/bungeecord/</loc>
+    <lastmod>2022-05-22T07:22:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/dormantserver/</loc>
+    <lastmod>2022-05-22T07:22:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/fairpvp/</loc>
+    <lastmod>2022-04-19T18:52:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/pvpdistinguish/</loc>
+    <lastmod>2022-04-17T02:11:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/emotevillespawner/</loc>
+    <lastmod>2021-04-15T16:19:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/autofsg/</loc>
+    <lastmod>2021-04-10T22:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/tags/fabric/</loc>
+    <lastmod>2021-04-10T22:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/tags/1.7/</loc>
+    <lastmod>2021-01-31T21:13:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/tags/forge/</loc>
+    <lastmod>2021-01-31T21:13:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/spoofnick/</loc>
+    <lastmod>2021-01-31T21:13:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/tags/1.9/</loc>
+    <lastmod>2021-01-27T09:22:06-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/commanditem/</loc>
+    <lastmod>2021-01-27T09:22:06-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/tags/1.8/</loc>
+    <lastmod>2021-01-09T12:26:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/lobbynickcheck/</loc>
+    <lastmod>2021-01-09T12:26:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/sharkmod/</loc>
+    <lastmod>2020-12-29T00:00:06-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/limitedeffects/</loc>
+    <lastmod>2018-08-23T23:01:06-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/minecraft/</loc>
+    <lastmod>2014-01-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/archives/</loc>
+  </url><url>
+    <loc>https://preciousthingy.github.io/categories/</loc>
+  </url><url>
+    <loc>https://preciousthingy.github.io/search/</loc>
   </url>
 </urlset>
