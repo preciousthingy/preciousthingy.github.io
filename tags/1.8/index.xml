@@ -4,17 +4,16 @@
     <title>1.8 on Precious Oyetunji</title>
     <link>https://preciousthingy.github.io/tags/1.8/</link>
     <description>Recent content in 1.8 on Precious Oyetunji</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jan 2021 12:26:00 -0500</lastBuildDate><atom:link href="https://preciousthingy.github.io/tags/1.8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 12:26:00 -0500</lastBuildDate>
+    <atom:link href="https://preciousthingy.github.io/tags/1.8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LobbyNickCheck</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/lobbynickcheck/</link>
       <pubDate>Sat, 09 Jan 2021 12:26:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/lobbynickcheck/</guid>
       <description>This mod finds out which players in a lobby are hidden using /nick</description>
     </item>
-    
   </channel>
 </rss>

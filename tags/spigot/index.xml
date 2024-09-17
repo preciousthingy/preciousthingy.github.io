@@ -1,83 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>spigot on Precious Oyetunji</title>
+    <title>Spigot on Precious Oyetunji</title>
     <link>https://preciousthingy.github.io/tags/spigot/</link>
-    <description>Recent content in spigot on Precious Oyetunji</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Spigot on Precious Oyetunji</description>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 21:50:00 -0500</lastBuildDate><atom:link href="https://preciousthingy.github.io/tags/spigot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 21:50:00 -0500</lastBuildDate>
+    <atom:link href="https://preciousthingy.github.io/tags/spigot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TabulatedChests</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/tabulatedchests/</link>
       <pubDate>Fri, 20 Jan 2023 21:50:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/tabulatedchests/</guid>
       <description>Adds a chest with multiple tabs</description>
     </item>
-    
     <item>
       <title>DuelPlugin</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/duelplugin/</link>
       <pubDate>Tue, 31 May 2022 22:01:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/duelplugin/</guid>
       <description>Plugin allowing duels to be started between players.</description>
     </item>
-    
     <item>
       <title>DormantServer</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/dormantserver/</link>
       <pubDate>Sun, 22 May 2022 07:22:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/dormantserver/</guid>
       <description>This proxy configuration turns off inactive servers to save compute costs</description>
     </item>
-    
     <item>
       <title>FairPvP</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/fairpvp/</link>
       <pubDate>Tue, 19 Apr 2022 18:52:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/fairpvp/</guid>
       <description>Plugin to allow opt-in pvp in survival worlds</description>
     </item>
-    
     <item>
       <title>PvPDistinguish</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/pvpdistinguish/</link>
       <pubDate>Sun, 17 Apr 2022 02:11:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/pvpdistinguish/</guid>
       <description>Vanishes players in PvP from players not in PvP</description>
     </item>
-    
     <item>
       <title>EmoteVilleSpawner</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/emotevillespawner/</link>
       <pubDate>Thu, 15 Apr 2021 16:19:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/emotevillespawner/</guid>
       <description>Plugin allowing players to modify spawners</description>
     </item>
-    
     <item>
       <title>SharkMod</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/sharkmod/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:06 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/sharkmod/</guid>
       <description>Adds a shark to Minecraft</description>
     </item>
-    
     <item>
       <title>LimitedEffects</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/limitedeffects/</link>
       <pubDate>Thu, 23 Aug 2018 23:01:06 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/limitedeffects/</guid>
       <description>This plugin places caps on item/player effects</description>
     </item>
-    
   </channel>
 </rss>

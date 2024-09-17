@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://preciousthingy.github.io/portfolio/</loc>
+    <lastmod>2023-12-10T15:24:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/</loc>
+    <lastmod>2023-12-10T15:24:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/sqlite_lite/</loc>
+    <lastmod>2023-12-10T15:24:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/queuepreview/</loc>
+    <lastmod>2023-03-22T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://preciousthingy.github.io/tags/1.18/</loc>
     <lastmod>2023-01-20T21:50:00-05:00</lastmod>
   </url><url>
     <loc>https://preciousthingy.github.io/tags/1.19/</loc>
-    <lastmod>2023-01-20T21:50:00-05:00</lastmod>
-  </url><url>
-    <loc>https://preciousthingy.github.io/portfolio/</loc>
-    <lastmod>2023-01-20T21:50:00-05:00</lastmod>
-  </url><url>
-    <loc>https://preciousthingy.github.io/</loc>
     <lastmod>2023-01-20T21:50:00-05:00</lastmod>
   </url><url>
     <loc>https://preciousthingy.github.io/tags/spigot/</loc>
@@ -22,6 +28,9 @@
   </url><url>
     <loc>https://preciousthingy.github.io/tags/</loc>
     <lastmod>2023-01-20T21:50:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/portfolio/pcremote/</loc>
+    <lastmod>2023-01-16T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://preciousthingy.github.io/portfolio/minecraft/duelplugin/</loc>
     <lastmod>2022-05-31T22:01:00-05:00</lastmod>
@@ -79,6 +88,9 @@
   </url><url>
     <loc>https://preciousthingy.github.io/portfolio/minecraft/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://preciousthingy.github.io/blog/</loc>
+    <lastmod>1970-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://preciousthingy.github.io/archives/</loc>
   </url><url>

@@ -4,118 +4,121 @@
     <title>Precious Oyetunji</title>
     <link>https://preciousthingy.github.io/</link>
     <description>Recent content on Precious Oyetunji</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 21:50:00 -0500</lastBuildDate><atom:link href="https://preciousthingy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Dec 2023 15:24:00 -0500</lastBuildDate>
+    <atom:link href="https://preciousthingy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sqlite_lite</title>
+      <link>https://preciousthingy.github.io/portfolio/sqlite_lite/</link>
+      <pubDate>Sun, 10 Dec 2023 15:24:00 -0500</pubDate>
+      <guid>https://preciousthingy.github.io/portfolio/sqlite_lite/</guid>
+      <description>&lt;p&gt;Recreating the base functionality of SQLite in Rust.&lt;/p&gt;
+&lt;p&gt;WIP: &lt;a href=&#34;https://github.com/Kyu/sqlite-lite&#34;&gt;https://github.com/Kyu/sqlite-lite&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QueuePreview</title>
+      <link>https://preciousthingy.github.io/portfolio/queuepreview/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 -0500</pubDate>
+      <guid>https://preciousthingy.github.io/portfolio/queuepreview/</guid>
+      <description>&lt;p&gt;Developed an app that helped over 1.5k students prioritize and keep track of companies present at the 49th
+NSBE convention, resulting in increased student engagement and efficient company interaction.&lt;/p&gt;
+&lt;p&gt;This was a project built out of a direct need of mine, and was a fun and passionate learning experience. Seeing how it helped fellow students in the same situation that I was in was incredibly satisfying.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m also proud of the quick timeline I put it together in, I learned ReactNative, FastAPI, and a lot about UI/UX in about 3 weeks, and still marketed it enough in about a week and a half to gather ~1.5k users across mobile and web.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>TabulatedChests</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/tabulatedchests/</link>
       <pubDate>Fri, 20 Jan 2023 21:50:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/tabulatedchests/</guid>
       <description>Adds a chest with multiple tabs</description>
     </item>
-    
+    <item>
+      <title>Colaria</title>
+      <link>https://preciousthingy.github.io/portfolio/pcremote/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 -0500</pubDate>
+      <guid>https://preciousthingy.github.io/portfolio/pcremote/</guid>
+      <description>&lt;p&gt;Designed a cross platform, universal app to allow a user to control their computer using their mobile device.&lt;/p&gt;
+&lt;p&gt;Implemented a custom protocol to allow touchpad input or gyroscope data to be sent over LAN, allowing the PC
+cursor location to be updated in real time.&lt;/p&gt;
+&lt;p&gt;A WIP still, work is still being done to enhance the project and make it useful for a wide variety of users, from user interview feedback.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DuelPlugin</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/duelplugin/</link>
       <pubDate>Tue, 31 May 2022 22:01:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/duelplugin/</guid>
       <description>Plugin allowing duels to be started between players.</description>
     </item>
-    
     <item>
       <title>DormantServer</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/dormantserver/</link>
       <pubDate>Sun, 22 May 2022 07:22:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/dormantserver/</guid>
       <description>This proxy configuration turns off inactive servers to save compute costs</description>
     </item>
-    
     <item>
       <title>FairPvP</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/fairpvp/</link>
       <pubDate>Tue, 19 Apr 2022 18:52:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/fairpvp/</guid>
       <description>Plugin to allow opt-in pvp in survival worlds</description>
     </item>
-    
     <item>
       <title>PvPDistinguish</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/pvpdistinguish/</link>
       <pubDate>Sun, 17 Apr 2022 02:11:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/pvpdistinguish/</guid>
       <description>Vanishes players in PvP from players not in PvP</description>
     </item>
-    
     <item>
       <title>EmoteVilleSpawner</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/emotevillespawner/</link>
       <pubDate>Thu, 15 Apr 2021 16:19:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/emotevillespawner/</guid>
       <description>Plugin allowing players to modify spawners</description>
     </item>
-    
     <item>
       <title>AutoFSG</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/autofsg/</link>
       <pubDate>Sat, 10 Apr 2021 22:30:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/autofsg/</guid>
       <description>A mod that automatically starts and verifies FSG speedruns</description>
     </item>
-    
     <item>
       <title>SpoofNick</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/spoofnick/</link>
       <pubDate>Sun, 31 Jan 2021 21:13:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/spoofnick/</guid>
       <description>Spoof the nickname, skin and cape of another player</description>
     </item>
-    
     <item>
       <title>CommandItem</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/commanditem/</link>
       <pubDate>Wed, 27 Jan 2021 09:22:06 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/commanditem/</guid>
       <description>A mod that binds commands to an item</description>
     </item>
-    
     <item>
       <title>LobbyNickCheck</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/lobbynickcheck/</link>
       <pubDate>Sat, 09 Jan 2021 12:26:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/lobbynickcheck/</guid>
       <description>This mod finds out which players in a lobby are hidden using /nick</description>
     </item>
-    
     <item>
       <title>SharkMod</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/sharkmod/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:06 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/sharkmod/</guid>
       <description>Adds a shark to Minecraft</description>
     </item>
-    
     <item>
       <title>LimitedEffects</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/limitedeffects/</link>
       <pubDate>Thu, 23 Aug 2018 23:01:06 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/limitedeffects/</guid>
       <description>This plugin places caps on item/player effects</description>
     </item>
-    
-    
-    
   </channel>
 </rss>

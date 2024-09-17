@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>forge on Precious Oyetunji</title>
+    <title>Forge on Precious Oyetunji</title>
     <link>https://preciousthingy.github.io/tags/forge/</link>
-    <description>Recent content in forge on Precious Oyetunji</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Forge on Precious Oyetunji</description>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jan 2021 21:13:00 -0500</lastBuildDate><atom:link href="https://preciousthingy.github.io/tags/forge/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2021 21:13:00 -0500</lastBuildDate>
+    <atom:link href="https://preciousthingy.github.io/tags/forge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SpoofNick</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/spoofnick/</link>
       <pubDate>Sun, 31 Jan 2021 21:13:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/spoofnick/</guid>
       <description>Spoof the nickname, skin and cape of another player</description>
     </item>
-    
     <item>
       <title>CommandItem</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/commanditem/</link>
       <pubDate>Wed, 27 Jan 2021 09:22:06 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/commanditem/</guid>
       <description>A mod that binds commands to an item</description>
     </item>
-    
     <item>
       <title>LobbyNickCheck</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/lobbynickcheck/</link>
       <pubDate>Sat, 09 Jan 2021 12:26:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/lobbynickcheck/</guid>
       <description>This mod finds out which players in a lobby are hidden using /nick</description>
     </item>
-    
   </channel>
 </rss>

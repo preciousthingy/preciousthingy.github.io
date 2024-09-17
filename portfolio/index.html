@@ -19,6 +19,7 @@
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
 <link rel="alternate" type="application/rss+xml" href="https://preciousthingy.github.io/portfolio/index.xml">
+<link rel="alternate" hreflang="en" href="https://preciousthingy.github.io/portfolio/">
 <noscript>
     <style>
         #theme-toggle,
@@ -36,7 +37,7 @@
                 --secondary: rgb(155, 156, 157);
                 --tertiary: rgb(65, 66, 68);
                 --content: rgb(196, 196, 197);
-                --hljs-bg: rgb(46, 46, 51);
+                --code-block-bg: rgb(46, 46, 51);
                 --code-bg: rgb(55, 56, 62);
                 --border: rgb(51, 51, 51);
             }
@@ -69,10 +70,10 @@
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "itemListElement": [, 
+  "itemListElement": [
     {
       "@type": "ListItem",
-      "position":  2 ,
+      "position":  1 ,
       "name": "Portfolio",
       "item": "https://preciousthingy.github.io/portfolio/"
     }
@@ -96,7 +97,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://preciousthingy.github.io" accesskey="h" title="Precious Oyetunji (Alt + H)">Precious Oyetunji</a>
+            <a href="https://preciousthingy.github.io/" accesskey="h" title="Precious Oyetunji (Alt + H)">Precious Oyetunji</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -151,19 +152,64 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>Topic: Minecraft
+    <h2 class="entry-hint-parent">sqlite_lite
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Recreating the base functionality of SQLite in Rust.
+WIP: https://github.com/Kyu/sqlite-lite
+</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-12-10 15:24:00 -0500 EST'>December 10, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to sqlite_lite" href="https://preciousthingy.github.io/portfolio/sqlite_lite/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">QueuePreview
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Developed an app that helped over 1.5k students prioritize and keep track of companies present at the 49th NSBE convention, resulting in increased student engagement and efficient company interaction.
+This was a project built out of a direct need of mine, and was a fun and passionate learning experience. Seeing how it helped fellow students in the same situation that I was in was incredibly satisfying.
+I’m also proud of the quick timeline I put it together in, I learned ReactNative, FastAPI, and a lot about UI/UX in about 3 weeks, and still marketed it enough in about a week and a half to gather ~1.5k users across mobile and web.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-03-22 00:00:00 -0500 -0500'>March 22, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to QueuePreview" href="https://preciousthingy.github.io/portfolio/queuepreview/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Colaria
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Designed a cross platform, universal app to allow a user to control their computer using their mobile device.
+Implemented a custom protocol to allow touchpad input or gyroscope data to be sent over LAN, allowing the PC cursor location to be updated in real time.
+A WIP still, work is still being done to enhance the project and make it useful for a wide variety of users, from user interview feedback.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-01-16 00:00:00 -0500 EST'>January 16, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Colaria" href="https://preciousthingy.github.io/portfolio/pcremote/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Topic: Minecraft
     </h2>
   </header>
   <div class="entry-content">
     <p>Contains projects related to Minecraft</p>
   </div>
-  <footer class="entry-footer"><span title='2014-01-01 00:00:00 -0500 -0500'>January 1, 2014</span></footer>
+  <footer class="entry-footer"><span title='2014-01-01 00:00:00 -0500 EST'>January 1, 2014</span></footer>
   <a class="entry-link" aria-label="post link to Topic: Minecraft" href="https://preciousthingy.github.io/portfolio/minecraft/"></a>
 </article>
     </main>
     
 <footer class="footer">
-    <span>&copy; 2023 <a href="https://preciousthingy.github.io">Precious Oyetunji</a></span>
+        <span>&copy; 2024 <a href="https://preciousthingy.github.io/">Precious Oyetunji</a></span> · 
+
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &

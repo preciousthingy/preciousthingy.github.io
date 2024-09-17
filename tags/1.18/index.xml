@@ -4,35 +4,30 @@
     <title>1.18 on Precious Oyetunji</title>
     <link>https://preciousthingy.github.io/tags/1.18/</link>
     <description>Recent content in 1.18 on Precious Oyetunji</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 21:50:00 -0500</lastBuildDate><atom:link href="https://preciousthingy.github.io/tags/1.18/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 21:50:00 -0500</lastBuildDate>
+    <atom:link href="https://preciousthingy.github.io/tags/1.18/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TabulatedChests</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/tabulatedchests/</link>
       <pubDate>Fri, 20 Jan 2023 21:50:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/tabulatedchests/</guid>
       <description>Adds a chest with multiple tabs</description>
     </item>
-    
     <item>
       <title>DuelPlugin</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/duelplugin/</link>
       <pubDate>Tue, 31 May 2022 22:01:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/duelplugin/</guid>
       <description>Plugin allowing duels to be started between players.</description>
     </item>
-    
     <item>
       <title>FairPvP</title>
       <link>https://preciousthingy.github.io/portfolio/minecraft/fairpvp/</link>
       <pubDate>Tue, 19 Apr 2022 18:52:00 -0500</pubDate>
-      
       <guid>https://preciousthingy.github.io/portfolio/minecraft/fairpvp/</guid>
       <description>Plugin to allow opt-in pvp in survival worlds</description>
     </item>
-    
   </channel>
 </rss>

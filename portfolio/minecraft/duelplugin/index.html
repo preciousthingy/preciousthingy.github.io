@@ -11,7 +11,6 @@
 <meta name="author" content="">
 <link rel="canonical" href="https://preciousthingy.github.io/portfolio/minecraft/duelplugin/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.css" rel="preload stylesheet" as="style">
-<script defer crossorigin="anonymous" src="/assets/js/highlight.js" onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://preciousthingy.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://preciousthingy.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://preciousthingy.github.io/favicon-32x32.png">
@@ -19,6 +18,7 @@
 <link rel="mask-icon" href="https://preciousthingy.github.io/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://preciousthingy.github.io/portfolio/minecraft/duelplugin/">
 <noscript>
     <style>
         #theme-toggle,
@@ -36,7 +36,7 @@
                 --secondary: rgb(155, 156, 157);
                 --tertiary: rgb(65, 66, 68);
                 --content: rgb(196, 196, 197);
-                --hljs-bg: rgb(46, 46, 51);
+                --code-block-bg: rgb(46, 46, 51);
                 --code-bg: rgb(55, 56, 62);
                 --border: rgb(51, 51, 51);
             }
@@ -71,22 +71,22 @@
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "itemListElement": [, 
+  "itemListElement": [
     {
       "@type": "ListItem",
-      "position":  2 ,
+      "position":  1 ,
       "name": "Portfolio",
       "item": "https://preciousthingy.github.io/portfolio/"
     }, 
     {
       "@type": "ListItem",
-      "position":  3 ,
+      "position":  2 ,
       "name": "Topic: Minecraft",
       "item": "https://preciousthingy.github.io/portfolio/minecraft/"
     }, 
     {
       "@type": "ListItem",
-      "position":  4 ,
+      "position":  3 ,
       "name": "DuelPlugin",
       "item": "https://preciousthingy.github.io/portfolio/minecraft/duelplugin/"
     }
@@ -103,8 +103,8 @@
   "keywords": [
     "spigot", "1.18"
   ],
-  "articleBody": "This plugin allows duels to be started between players.\nSource Code: Demo:\n",
-  "wordCount" : "12",
+  "articleBody": "This plugin allows duels to be started between players, and uses WorldGuard regions to set Duel Arenas.\n",
+  "wordCount" : "17",
   "inLanguage": "en",
   "datePublished": "2022-05-31T22:01:00-05:00",
   "dateModified": "2022-05-31T22:01:00-05:00",
@@ -139,7 +139,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://preciousthingy.github.io" accesskey="h" title="Precious Oyetunji (Alt + H)">Precious Oyetunji</a>
+            <a href="https://preciousthingy.github.io/" accesskey="h" title="Precious Oyetunji (Alt + H)">Precious Oyetunji</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -187,23 +187,21 @@
 <article class="post-single">
   <header class="post-header">
     
-    <h1 class="post-title">
+    <h1 class="post-title entry-hint-parent">
       DuelPlugin
     </h1>
-    <div class="post-meta"><span title='2022-05-31 22:01:00 -0500 CDT'>May 31, 2022</span>
+    <div class="post-meta"><span title='2022-05-31 22:01:00 -0500 -0500'>May 31, 2022</span>
 
 </div>
   </header> 
-  <div class="post-content"><p>This plugin allows duels to be started between players.</p>
-<p>Source Code:
-Demo:</p>
+  <div class="post-content"><p>This plugin allows duels to be started between players, and uses WorldGuard regions to set Duel Arenas.</p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://preciousthingy.github.io/tags/spigot/">spigot</a></li>
+      <li><a href="https://preciousthingy.github.io/tags/spigot/">Spigot</a></li>
       <li><a href="https://preciousthingy.github.io/tags/1.18/">1.18</a></li>
     </ul>
   </footer>
@@ -211,7 +209,8 @@ Demo:</p>
     </main>
     
 <footer class="footer">
-    <span>&copy; 2023 <a href="https://preciousthingy.github.io">Precious Oyetunji</a></span>
+        <span>&copy; 2024 <a href="https://preciousthingy.github.io/">Precious Oyetunji</a></span> · 
+
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
