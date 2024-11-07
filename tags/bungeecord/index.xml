@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bungeecord on Precious Oyetunji</title>
-    <link>https://preciousthingy.github.io/tags/bungeecord/</link>
+    <link>https://preciouso.com/tags/bungeecord/</link>
     <description>Recent content in Bungeecord on Precious Oyetunji</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 May 2022 07:22:00 -0500</lastBuildDate>
-    <atom:link href="https://preciousthingy.github.io/tags/bungeecord/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://preciouso.com/tags/bungeecord/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DormantServer</title>
-      <link>https://preciousthingy.github.io/portfolio/minecraft/dormantserver/</link>
+      <link>https://preciouso.com/portfolio/minecraft/dormantserver/</link>
       <pubDate>Sun, 22 May 2022 07:22:00 -0500</pubDate>
-      <guid>https://preciousthingy.github.io/portfolio/minecraft/dormantserver/</guid>
+      <guid>https://preciouso.com/portfolio/minecraft/dormantserver/</guid>
       <description>This proxy configuration turns off inactive servers to save compute costs</description>
     </item>
   </channel>

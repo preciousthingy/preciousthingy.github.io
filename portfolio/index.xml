@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portfolio on Precious Oyetunji</title>
-    <link>https://preciousthingy.github.io/portfolio/</link>
+    <link>https://preciouso.com/portfolio/</link>
     <description>Recent content in Portfolio on Precious Oyetunji</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Nov 2024 21:38:57 -0600</lastBuildDate>
-    <atom:link href="https://preciousthingy.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://preciouso.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EventSnap</title>
-      <link>https://preciousthingy.github.io/portfolio/eventsnap/</link>
+      <link>https://preciouso.com/portfolio/eventsnap/</link>
       <pubDate>Sat, 02 Nov 2024 21:38:57 -0600</pubDate>
-      <guid>https://preciousthingy.github.io/portfolio/eventsnap/</guid>
+      <guid>https://preciouso.com/portfolio/eventsnap/</guid>
       <description>&lt;p&gt;EventSnap turns photos of flyers and invites into iCloud/Google Calendar events!&lt;/p&gt;
 &lt;p&gt;It integrates with the iOS Photos App (&amp;amp; soon to come Siri) to allow you to easily add an flyer photo to your calendar in a snap!&lt;/p&gt;
 &lt;p&gt;Check out &lt;a href=&#34;https://eventsnap.app&#34;&gt;eventsnap.app&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://apps.apple.com/us/app/event-snap/id6737088852&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://preciousthingy.github.io/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg&#34; alt=&#34;Download EventSnap!&#34;  /&gt;
+&lt;p&gt;&lt;a href=&#34;https://apps.apple.com/us/app/event-snap/id6737088852&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://preciouso.com/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg&#34; alt=&#34;Download EventSnap!&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>sqlite_lite</title>
-      <link>https://preciousthingy.github.io/portfolio/sqlite_lite/</link>
+      <link>https://preciouso.com/portfolio/sqlite_lite/</link>
       <pubDate>Sun, 10 Dec 2023 15:24:00 -0500</pubDate>
-      <guid>https://preciousthingy.github.io/portfolio/sqlite_lite/</guid>
+      <guid>https://preciouso.com/portfolio/sqlite_lite/</guid>
       <description>&lt;p&gt;Recreating the base functionality of SQLite in Rust.&lt;/p&gt;
 &lt;p&gt;WIP: &lt;a href=&#34;https://github.com/Kyu/sqlite-lite&#34;&gt;https://github.com/Kyu/sqlite-lite&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>QueuePreview</title>
-      <link>https://preciousthingy.github.io/portfolio/queuepreview/</link>
+      <link>https://preciouso.com/portfolio/queuepreview/</link>
       <pubDate>Wed, 22 Mar 2023 00:00:00 -0500</pubDate>
-      <guid>https://preciousthingy.github.io/portfolio/queuepreview/</guid>
+      <guid>https://preciouso.com/portfolio/queuepreview/</guid>
       <description>&lt;p&gt;Developed an app that helped over 1.5k students prioritize and keep track of companies present at the 49th
 NSBE convention, resulting in increased student engagement and efficient company interaction.&lt;/p&gt;
 &lt;p&gt;This was a project built out of a direct need of mine, and was a fun and passionate learning experience. Seeing how it helped fellow students in the same situation that I was in was incredibly satisfying.&lt;/p&gt;
@@ -39,9 +39,9 @@ NSBE convention, resulting in increased student engagement and efficient company
     </item>
     <item>
       <title>Colaria</title>
-      <link>https://preciousthingy.github.io/portfolio/colaria/</link>
+      <link>https://preciouso.com/portfolio/colaria/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 -0500</pubDate>
-      <guid>https://preciousthingy.github.io/portfolio/colaria/</guid>
+      <guid>https://preciouso.com/portfolio/colaria/</guid>
       <description>&lt;p&gt;Designed a cross platform, universal app to allow a user to control their computer using their mobile device.&lt;/p&gt;
 &lt;p&gt;Implemented a custom protocol to allow touchpad input or gyroscope data to be sent over LAN, allowing the PC
 cursor location to be updated in real time.&lt;/p&gt;

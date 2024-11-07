@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>1.7 on Precious Oyetunji</title>
-    <link>https://preciousthingy.github.io/tags/1.7/</link>
+    <link>https://preciouso.com/tags/1.7/</link>
     <description>Recent content in 1.7 on Precious Oyetunji</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Jan 2021 21:13:00 -0500</lastBuildDate>
-    <atom:link href="https://preciousthingy.github.io/tags/1.7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://preciouso.com/tags/1.7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SpoofNick</title>
-      <link>https://preciousthingy.github.io/portfolio/minecraft/spoofnick/</link>
+      <link>https://preciouso.com/portfolio/minecraft/spoofnick/</link>
       <pubDate>Sun, 31 Jan 2021 21:13:00 -0500</pubDate>
-      <guid>https://preciousthingy.github.io/portfolio/minecraft/spoofnick/</guid>
+      <guid>https://preciouso.com/portfolio/minecraft/spoofnick/</guid>
       <description>Spoof the nickname, skin and cape of another player</description>
     </item>
   </channel>
