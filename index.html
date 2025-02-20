@@ -167,7 +167,12 @@ Check out <a href="/portfolio"><strong>my portfolio</strong></a> or come back la
     <footer class="entry-footer">
         <div class="social-icons" >
     <a href="https://github.com/Kyu" target="_blank" rel="noopener noreferrer me"
-        title="Github">
+        title="Github"
+        onclick="gtag('event', 'click', {
+            'event_category': 'social_click',
+            'event_label': 'github',
+            'transport_type': 'beacon'
+        });">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
     stroke-linecap="round" stroke-linejoin="round">
     <path
@@ -176,7 +181,12 @@ Check out <a href="/portfolio"><strong>my portfolio</strong></a> or come back la
 </svg>
     </a>
     <a href="https://www.linkedin.com/in/preciousoo/" target="_blank" rel="noopener noreferrer me"
-        title="Linkedin">
+        title="Linkedin"
+        onclick="gtag('event', 'click', {
+            'event_category': 'social_click',
+            'event_label': 'linkedin',
+            'transport_type': 'beacon'
+        });">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
     stroke-linecap="round" stroke-linejoin="round">
     <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
@@ -185,7 +195,12 @@ Check out <a href="/portfolio"><strong>my portfolio</strong></a> or come back la
 </svg>
     </a>
     <a href="/resume.pdf" target="_blank" rel="noopener noreferrer me"
-        title="Cv">
+        title="Cv"
+        onclick="gtag('event', 'click', {
+            'event_category': 'social_click',
+            'event_label': 'cv',
+            'transport_type': 'beacon'
+        });">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
     stroke-linecap="round" stroke-linejoin="round">
     <path
@@ -196,7 +211,6 @@ Check out <a href="/portfolio"><strong>my portfolio</strong></a> or come back la
 </svg>
     </a>
 </div>
-
     </footer>
 </article>
     </main>
